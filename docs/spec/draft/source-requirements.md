@@ -49,6 +49,17 @@ No claims are made for prior revisions.
 
 ## Basics
 
+NOTE: This table presents a simplified view of the requirements. See the
+[Requirements](#requirements) section for the full list of requirements for each
+level.
+
+| Track/Level | Requirements | Focus
+| ----------- | ------------ | -----
+| [Source L1]  | Use a version control system | First steps towards operational maturity
+| [Source L2]  | History and controls for protected branches & tags | Preserve history and ensure the process has been followed
+| [Source L3]  | Signed provenance | Tampering by the source control system
+| [Source L4]  | Code review | Tampering by project contributors
+
 <section id="source-l1">
 
 ### Level 1: Version controlled
